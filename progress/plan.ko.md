@@ -6,9 +6,9 @@
 
 ## 0단계 — 기준 상태
 
-- [ ] `waiting-queue` 기준 ref와 테스트 목록을 확정합니다.
+- [x] `waiting-queue` 기준 ref와 테스트 목록을 확정합니다.
     - 읽기: [`waiting-queue` README](https://github.com/yoonpunk/waiting-queue), [Gradle 테스트 가이드](https://docs.gradle.org/current/userguide/java_testing.html).
-- [ ] 환경 오류와 앱/테스트 기대값 오류를 분리합니다.
+- [x] 환경 오류와 앱/테스트 기대값 오류를 분리합니다.
 - [ ] 대상 `main` 밖에 정상 변경 사례와 주입 결함 사례를 하나씩 만듭니다.
     - 읽기: [Git worktree 문서](https://git-scm.com/docs/git-worktree).
 - [ ] 기준 실행 명령과 예상 결과를 저장소에 기록합니다.

@@ -6,9 +6,9 @@ This is our study schedule. Stages are ordered, but have no deadline. At the sta
 
 ## Stage 0 — Baseline
 
-- [ ] Confirm the `waiting-queue` baseline ref and test inventory.
+- [x] Confirm the `waiting-queue` baseline ref and test inventory.
     - Read: [`waiting-queue` README](https://github.com/yoonpunk/waiting-queue) and [Gradle testing guide](https://docs.gradle.org/current/userguide/java_testing.html).
-- [ ] Separate environment failures from application/test expectation failures.
+- [x] Separate environment failures from application/test expectation failures.
 - [ ] Create one normal-change fixture and one seeded-defect fixture outside the target `main` branch.
     - Read: [Git worktree documentation](https://git-scm.com/docs/git-worktree).
 - [ ] Record the baseline command and expected result in the repository.
